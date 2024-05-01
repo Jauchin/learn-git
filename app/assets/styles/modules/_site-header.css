@@ -12,6 +12,7 @@
     @mixin atMedium {
         background-color: rgba($mainBlue, .3);
     }
+    
     &__btn-container {
         @mixin atMedium {
             order:2;
